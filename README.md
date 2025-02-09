@@ -1,4 +1,4 @@
-# Chrona Linux
+# Chrona – Lightweight operating system
 
 **Chrona Linux – "Low on Resources, High on Freedom"**
 
